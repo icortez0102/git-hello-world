@@ -97,3 +97,20 @@ Esto es otro texto que no se relaciona con la cita anterior
 > Esto es otra cita
 
 Ay weyyyy!!!!
+
+# Lineas divisoras
+
+Esto es un texto que será dividido por guiones medios.
+
+---
+
+Esto es un texto que será dividido por asterisco.
+
+***
+Esto es un texto que será dividido por guiones bajos.
+
+___
+
+
+
+
