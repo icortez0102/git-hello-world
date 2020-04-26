@@ -86,3 +86,14 @@ export  $initHighlight;
 | Denyse | Audelo   | 3456987   |
 | Ian    | Cortez   | 6567898   |
 
+# Citas
+Esto es un tecto referente a una cita que nombremos debajo:
+
+> Esto es una cita
+esto va dentro de de la cita
+
+Esto es otro texto que no se relaciona con la cita anterior
+
+> Esto es otra cita
+
+Ay weyyyy!!!!
